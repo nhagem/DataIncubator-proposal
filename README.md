@@ -1,2 +1,2 @@
-# DataIncubator-proposal
-Proposed project for The Data Incubator semifinalist challenge
+# DataIncubator Capstone Project
+Capstone Project for The Data Incubator
